@@ -1,0 +1,6 @@
+development:
+    adapter: postgresql
+    database: development
+    username: <%= 'andyalexnf' %>
+    password: <%= 'cf-ok6617' %>
+    host: localhost
